@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/success-react/static/css/main.1c3afb8d.css",
+    "main.js": "/success-react/static/js/main.8ff59908.js",
+    "static/media/videoBg.mp4": "/success-react/static/media/videoBg.56441fcbb87daf6a532a.mp4",
+    "index.html": "/success-react/index.html",
+    "main.1c3afb8d.css.map": "/success-react/static/css/main.1c3afb8d.css.map",
+    "main.8ff59908.js.map": "/success-react/static/js/main.8ff59908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c3afb8d.css",
+    "static/js/main.8ff59908.js"
+  ]
+}
